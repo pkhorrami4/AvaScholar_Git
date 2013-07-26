@@ -1,0 +1,30 @@
+﻿Build started 7/26/2013 4:06:47 PM.
+     1>Project "C:\Users\pkhorra2\Downloads\head_pose_estimation\demo\build\head_pose_estimation_demo.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "head_pose_estimation_demo.dir\Release\head_pose_estimation_demo.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:/Users/pkhorra2/Downloads/head_pose_estimation/demo/. /IC:/Users/pkhorra2/Downloads/head_pose_estimation/demo/.. /I"C:/Program Files (x86)/OpenNI/Include" /IC:/opencv/build/include /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"head_pose_estimation_demo.dir\Release\\" /Fd"C:/Users/pkhorra2/Downloads/head_pose_estimation/demo/build/Release/head_pose_estimation_demo.pdb" /Gd /TP /analyze- /errorReport:prompt ..\main.cpp  /Zm1000 
+         main.cpp
+     1>c:\program files (x86)\openni\include\Win32/XnPlatformWin32.h(40): warning C4005: 'WIN32_LEAN_AND_MEAN' : macro redefinition
+                 c:\users\pkhorra2\downloads\head_pose_estimation\demo\freeglut_std.h(58) : see previous definition of 'WIN32_LEAN_AND_MEAN'
+     1>c:\users\pkhorra2\downloads\head_pose_estimation\CRForest.h(56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>..\main.cpp(253): warning C4244: 'initializing' : conversion from 'XnDouble' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\pkhorra2\Downloads\head_pose_estimation\demo\build\Release\head_pose_estimation_demo.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:/Program Files (x86)/OpenNI/Lib" /LIBPATH:"C:/Program Files (x86)/OpenNI/Lib/Release" /LIBPATH:C:/opencv/build/x86/vc10/lib /LIBPATH:C:/opencv/build/x86/vc10/lib/Release /LIBPATH:C:/freeglut/lib /LIBPATH:C:/freeglut/lib/Release kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib opencv_core241.lib opencv_highgui241.lib opencv_imgproc241.lib OpenNI.lib freeglut.lib /MANIFEST /ManifestFile:"head_pose_estimation_demo.dir\Release\head_pose_estimation_demo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:/Users/pkhorra2/Downloads/head_pose_estimation/demo/build/Release/head_pose_estimation_demo.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/pkhorra2/Downloads/head_pose_estimation/demo/build/Release/head_pose_estimation_demo.lib" /MACHINE:X86 head_pose_estimation_demo.dir\Release\CRForestEstimator.obj
+         head_pose_estimation_demo.dir\Release\CRTree.obj
+         head_pose_estimation_demo.dir\Release\gl_camera.obj
+         head_pose_estimation_demo.dir\Release\main.obj  /machine:X86 
+         head_pose_estimation_demo.vcxproj -> C:\Users\pkhorra2\Downloads\head_pose_estimation\demo\build\Release\head_pose_estimation_demo.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\pkhorra2\Downloads\head_pose_estimation\demo\build\Release\head_pose_estimation_demo.exe;#1" /manifest head_pose_estimation_demo.dir\Release\head_pose_estimation_demo.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "head_pose_estimation_demo.dir\Release\head_pose_estimation_demo.unsuccessfulbuild".
+         Touching "head_pose_estimation_demo.dir\Release\head_pose_estimation_demo.lastbuildstate".
+     1>Done Building Project "C:\Users\pkhorra2\Downloads\head_pose_estimation\demo\build\head_pose_estimation_demo.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.44

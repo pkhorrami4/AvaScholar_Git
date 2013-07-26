@@ -1,0 +1,3 @@
+C:/Users/pkhorra2/Downloads/head_pose_estimation/demo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pkhorra2/Downloads/head_pose_estimation/demo/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/pkhorra2/Downloads/head_pose_estimation/demo/build/CMakeFiles/head_pose_estimation_demo.dir

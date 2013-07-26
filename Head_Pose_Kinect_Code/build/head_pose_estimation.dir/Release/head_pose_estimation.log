@@ -1,0 +1,19 @@
+﻿Build started 7/26/2013 2:13:03 PM.
+     1>Project "C:\Users\pkhorra2\Downloads\head_pose_estimation\build\head_pose_estimation.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "head_pose_estimation.dir\Release\head_pose_estimation.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         head_pose_estimation.vcxproj -> C:\Users\pkhorra2\Downloads\head_pose_estimation\build\Release\head_pose_estimation.exe
+       FinalizeBuildStatus:
+         Deleting file "head_pose_estimation.dir\Release\head_pose_estimation.unsuccessfulbuild".
+         Touching "head_pose_estimation.dir\Release\head_pose_estimation.lastbuildstate".
+     1>Done Building Project "C:\Users\pkhorra2\Downloads\head_pose_estimation\build\head_pose_estimation.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.13
