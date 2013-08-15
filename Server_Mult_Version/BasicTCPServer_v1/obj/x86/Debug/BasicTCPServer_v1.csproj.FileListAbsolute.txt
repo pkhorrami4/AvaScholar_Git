@@ -1,0 +1,11 @@
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\BasicTCPServer_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\BasicTCPServer_v1\obj\x86\Debug\BasicTCPServer_v1.Properties.Resources.resources
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\BasicTCPServer_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\BasicTCPServer_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\BasicTCPServer_v1\bin\Debug\BasicTCPServer_v1.exe
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\BasicTCPServer_v1\bin\Debug\BasicTCPServer_v1.pdb
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\BasicTCPServer_v1\bin\Debug\MathNet.Numerics.dll
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\BasicTCPServer_v1\bin\Debug\MathNet.Numerics.IO.dll
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\BasicTCPServer_v1\obj\x86\Debug\BasicTCPServer_v1.exe
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\BasicTCPServer_v1\obj\x86\Debug\BasicTCPServer_v1.pdb
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\BasicTCPServer_v1\obj\x86\Debug\BasicTCPServer_v1.Form1.resources

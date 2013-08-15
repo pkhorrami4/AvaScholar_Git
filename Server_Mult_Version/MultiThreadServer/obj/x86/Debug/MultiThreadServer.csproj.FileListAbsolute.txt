@@ -1,0 +1,11 @@
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\MultiThreadServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\MultiThreadServer\obj\x86\Debug\MultiThreadServer.Form1.resources
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\MultiThreadServer\obj\x86\Debug\MultiThreadServer.Properties.Resources.resources
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\MultiThreadServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\MultiThreadServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\MultiThreadServer\bin\Debug\MultiThreadServer.exe
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\MultiThreadServer\bin\Debug\MultiThreadServer.pdb
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\MultiThreadServer\bin\Debug\MathNet.Numerics.dll
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\MultiThreadServer\bin\Debug\MathNet.Numerics.IO.dll
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\MultiThreadServer\obj\x86\Debug\MultiThreadServer.exe
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\MultiThreadServer\obj\x86\Debug\MultiThreadServer.pdb
