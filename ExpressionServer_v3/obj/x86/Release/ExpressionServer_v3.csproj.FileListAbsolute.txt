@@ -1,0 +1,12 @@
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\ExpressionServer_v3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\ExpressionServer_v3\obj\x86\Release\ExpressionServer_v3.Form1.resources
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\ExpressionServer_v3\obj\x86\Release\ExpressionServer_v3.Form2.resources
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\ExpressionServer_v3\obj\x86\Release\ExpressionServer_v3.Properties.Resources.resources
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\ExpressionServer_v3\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\ExpressionServer_v3\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\ExpressionServer_v3\bin\Release\ExpressionServer_v3.exe
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\ExpressionServer_v3\bin\Release\ExpressionServer_v3.pdb
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\ExpressionServer_v3\bin\Release\MathNet.Numerics.dll
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\ExpressionServer_v3\bin\Release\MathNet.Numerics.IO.dll
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\ExpressionServer_v3\obj\x86\Release\ExpressionServer_v3.exe
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\Server_Mult_Version\ExpressionServer_v3\obj\x86\Release\ExpressionServer_v3.pdb
