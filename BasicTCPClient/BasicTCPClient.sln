@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicTCPClient", "BasicTCPClient\BasicTCPClient.csproj", "{C34506B3-7020-49DB-9AB2-36D89F373C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicTCPClient_Exp", "BasicTCPClient_Exp\BasicTCPClient_Exp.csproj", "{1658A882-F839-494D-99E6-0DD95FF66CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C34506B3-7020-49DB-9AB2-36D89F373C9B}.Debug|x86.ActiveCfg = Debug|x86
+		{C34506B3-7020-49DB-9AB2-36D89F373C9B}.Debug|x86.Build.0 = Debug|x86
+		{C34506B3-7020-49DB-9AB2-36D89F373C9B}.Release|x86.ActiveCfg = Release|x86
+		{C34506B3-7020-49DB-9AB2-36D89F373C9B}.Release|x86.Build.0 = Release|x86
+		{1658A882-F839-494D-99E6-0DD95FF66CDD}.Debug|x86.ActiveCfg = Debug|x86
+		{1658A882-F839-494D-99E6-0DD95FF66CDD}.Debug|x86.Build.0 = Debug|x86
+		{1658A882-F839-494D-99E6-0DD95FF66CDD}.Release|x86.ActiveCfg = Release|x86
+		{1658A882-F839-494D-99E6-0DD95FF66CDD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

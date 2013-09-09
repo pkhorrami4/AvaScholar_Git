@@ -1,0 +1,18 @@
+c:\users\pkhorra2\documents\visual studio 2010\Projects\BasicTCPClient\BasicTCPClient\bin\Debug\BasicTCPClient.exe
+c:\users\pkhorra2\documents\visual studio 2010\Projects\BasicTCPClient\BasicTCPClient\bin\Debug\BasicTCPClient.pdb
+c:\users\pkhorra2\documents\visual studio 2010\Projects\BasicTCPClient\BasicTCPClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pkhorra2\documents\visual studio 2010\Projects\BasicTCPClient\BasicTCPClient\obj\x86\Debug\BasicTCPClient.Form1.resources
+c:\users\pkhorra2\documents\visual studio 2010\Projects\BasicTCPClient\BasicTCPClient\obj\x86\Debug\BasicTCPClient.Properties.Resources.resources
+c:\users\pkhorra2\documents\visual studio 2010\Projects\BasicTCPClient\BasicTCPClient\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pkhorra2\documents\visual studio 2010\Projects\BasicTCPClient\BasicTCPClient\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pkhorra2\documents\visual studio 2010\Projects\BasicTCPClient\BasicTCPClient\obj\x86\Debug\BasicTCPClient.exe
+c:\users\pkhorra2\documents\visual studio 2010\Projects\BasicTCPClient\BasicTCPClient\obj\x86\Debug\BasicTCPClient.pdb
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\BasicTCPClient\BasicTCPClient\obj\x86\Debug\BasicTCPClient.exe
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\BasicTCPClient\BasicTCPClient\obj\x86\Debug\BasicTCPClient.pdb
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\BasicTCPClient\BasicTCPClient\bin\Debug\BasicTCPClient.exe
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\BasicTCPClient\BasicTCPClient\bin\Debug\BasicTCPClient.pdb
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\BasicTCPClient\BasicTCPClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\BasicTCPClient\BasicTCPClient\obj\x86\Debug\BasicTCPClient.Form1.resources
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\BasicTCPClient\BasicTCPClient\obj\x86\Debug\BasicTCPClient.Properties.Resources.resources
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\BasicTCPClient\BasicTCPClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pkhorra2\Documents\AvaScholar\Attention_Detector\C#_Proj\BasicTCPClient\BasicTCPClient\obj\x86\Debug\GenerateResource.write.1.tlog
